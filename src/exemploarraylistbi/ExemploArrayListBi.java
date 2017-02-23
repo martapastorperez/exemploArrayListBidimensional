@@ -8,6 +8,8 @@ public class ExemploArrayListBi {
        li.crearLiga();
        li.amosar();
        li.buscarXogador();
+       li.darDeBaixa();
+       li.amosar();
         
     }
     
